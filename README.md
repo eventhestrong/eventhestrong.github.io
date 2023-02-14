@@ -1,1 +1,0 @@
-# eventhestrong.github.io
