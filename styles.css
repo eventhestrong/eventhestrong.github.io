@@ -108,6 +108,10 @@ span.small {
 	line-height: 1.5;
 }
 
+.container2 p {
+	font-family: "Gravity";
+}
+
 .section-header {
 	font-family: "Nimbus";
 	font-weight: normal;
