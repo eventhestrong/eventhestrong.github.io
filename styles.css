@@ -71,7 +71,7 @@ span.small {
 	text-align: center;
 	max-width: 900px;
 	margin: auto;
-	padding: 0 1.5em;
+	padding: 0 0;
 	font-size: 2em;
 	font-family: "Portia";
 	font-weight: normal;
@@ -129,7 +129,7 @@ span.small {
 	margin-left: auto;
 	margin-right: auto;
 	height: auto;
-	width: 75%;
+	width: 60%;
 	object-fit: contain;
 }
 
